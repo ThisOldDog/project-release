@@ -10,7 +10,7 @@
 
 任务分类 | 任务名称 | 任务描述
 :--: | :--: | :--
-Git | GitCloneIfAbsent | git clone command 或者存在本地缓存时直接打开
+Git | GitCloneIfAbsent | 克隆远程仓库或者存在本地缓存时直接打开
 Git | GitBranch | 加载本地和远程所有分支
 Git | GitCheckout | 切换到分支
 Git | GitAdd | 将修改的问题提交到暂存区
