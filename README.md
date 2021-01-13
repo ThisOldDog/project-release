@@ -152,7 +152,7 @@ project:
             maven.springboot.skip: true
             maven.source.skip: true
             file.encoding: UTF-8
-          log-path: src/main/resources/maven/log/1.6-release
+          log-path: src/main/resources/maven/log/1.5-release
 ```
 
 ### 启动程序
