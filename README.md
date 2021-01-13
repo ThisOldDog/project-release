@@ -106,7 +106,7 @@ project:
 ```yaml
 project:
   release:
-    # 阶段定义： -> 拉去最新代码 -> 拉去所有分支 -> 切换到指定分支
+    # 阶段定义
     stage-flow:
       # 下载或者打开仓库
       - task: git_clone_if_absent
